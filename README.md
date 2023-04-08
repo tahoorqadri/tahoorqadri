@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tahoorqadri
-- 👀 I’m interested in python
-- 🌱 I’m currently learning ML
+- 👀 I’m interested in integration of ML with web dev.
+- 🌱 I’m currently learning Web Dev
 
 <!---
 tahoorqadri/tahoorqadri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
